@@ -1,0 +1,4 @@
+#define PYFXCORE_API __declspec(dllexport)
+#define PYFXCORE_API __declspec(dllimport)
+#define PYFXAPI __declspec(dllexport)
+#define PYFXAPI __declspec(dllimport)
